@@ -7,7 +7,7 @@
 -github pages
 [Test](https://github.com/python-basic/sem3-lr2-Fourwqw/edit..)
 ### Тупа я
-![Максон с энергетиками, что может быть лучше?](Ya.jpg "Title is optional")
+![Максон с энергетиками, что может быть лучше?](Ya.jpg "Фоточка, а на ней красоточка")
  
 ## Решения Задачи на Питоне
 
