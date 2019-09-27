@@ -1,11 +1,16 @@
-# Решение
+# About me
 
 ## Галактионов Максим
+#
 -Python
+#
 -PascalABC
+#
 -JS
+#
 -github pages
-[Test](https://github.com/python-basic/sem3-lr2-Fourwqw/edit..)
+### test
+[worked](https://vk.com/aldn0as)
 ### Тупа я
 ![Максон с энергетиками, что может быть лучше?](Ya.jpg "Фоточка, а на ней красоточка")
  
